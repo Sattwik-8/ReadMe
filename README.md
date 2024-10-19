@@ -11,7 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Sattwik-8&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sattwik-8&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sattwik-8&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+[![An image of @sattwik8's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sattwik8)](https://holopin.io/@sattwik8)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
